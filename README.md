@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/colourful-breeze19/colourful-breeze19/blob/main/gifs/1UEn.gif" alt="hello" /> </p>
+<p align="center"> <img src="https://github.com/colourful-breeze19/colourful-breeze19/blob/main/gifs/download.gif" alt="hello" /> </p>
 
 ## 👋 I'm [Chahat!](https://github.com/colourful-breeze19/)
 
