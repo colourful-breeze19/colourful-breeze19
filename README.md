@@ -14,7 +14,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from UIET
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with C++, JavaScript, MySQL etc.
+- 🛠 &nbsp; I’m currently working with JAVA, SpringMVC, MySQL etc.
 - 🚀🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/colourful-breeze19).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/colourful-breeze19/colourful-breeze19/issues/)! I am happy to help.
 
